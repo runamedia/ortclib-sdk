@@ -78,7 +78,7 @@
 	url = https://github.com/webrtc-uwp/webrtc-windows.git
 [submodule "common/windows/samples/PeerCC"]
 	path = common/windows/samples/PeerCC
-	url = https://github.com/webrtc-uwp/PeerCC.git
+url=https://github.com/runamedia/PeerCC.git
 [submodule "common/windows/samples/ChatterBox"]
 	path = common/windows/samples/ChatterBox
 	url = https://github.com/webrtc-uwp/ChatterBox.git
